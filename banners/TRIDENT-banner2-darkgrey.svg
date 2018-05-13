@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="193.57605mm"
+   height="46.552795mm"
+   viewBox="0 0 193.57605 46.552795"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="TRDENT-banner2-darkgrey.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="857.90739"
+     inkscape:cy="-221.39486"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     height="100mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.2489057,-123.3414)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Trident;-inkscape-font-specification:Trident;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="28.726189"
+       y="141.2738"
+       id="text4685"><tspan
+         sodipodi:role="line"
+         id="tspan4683"
+         x="28.726189"
+         y="141.2738"
+         style="fill:#333333;fill-opacity:1;stroke-width:0.26458332">TRIDENT</tspan></text>
+    <g
+       inkscape:label="Trident"
+       id="layer2"
+       transform="matrix(0,0.19755555,-0.19755555,0,208.54273,84.708857)">
+      <path
+         id="path4148"
+         transform="scale(0.9375)"
+         d="m 339.54883,36.271484 -17.39453,82.591796 11.26953,-9.37109 -16.40625,157.91015 -55.51172,27.91016 29.3125,-180.16211 -42.21289,77.42383 15.08594,-7.64453 -44.53516,164.23437 93.42578,-40.91601 10.66211,26.99609 0.11328,746.19536 16.19141,0.012 16.19336,-0.012 0.11328,-746.19536 10.66211,-26.99609 93.42578,40.91601 -44.53516,-164.23437 15.08594,7.64453 -42.21289,-77.42383 29.3125,180.16211 -55.51172,-27.91016 -16.40625,-157.91015 11.26953,9.37109 z"
+         style="opacity:1;fill:#1a59c3;fill-opacity:1;stroke:none;stroke-width:96;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-55.400553,0.473509)"
+         id="g111" />
+    </g>
+  </g>
+</svg>
